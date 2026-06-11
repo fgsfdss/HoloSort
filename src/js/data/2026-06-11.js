@@ -746,21 +746,21 @@ dataSet[dataSetVersion].characterData = [
 // MekPark ACHRORA
     {
         name: "Sayana",
-        img: "",
+        img: "QFRbWAM.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
         name: "Rirara",
-        img: "",
+        img: "QFRbWAM.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
         name: "Hinami",
-        img: "",
+        img: "QFRbWAM.png",
         opts: {
             generation: ["achrora"],
         }
@@ -768,7 +768,7 @@ dataSet[dataSetVersion].characterData = [
 // Indies
     {
         name: "Watagashi Unou",
-        img: "",
+        img: "QFRbWAM.png",
         opts: {
             generation: ["indie"],
         }
@@ -796,7 +796,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Appare Hinata",
-        img: "QFRbWAM.png",
+        img: "",
         opts: {
             generation: ["indie"],
         }
