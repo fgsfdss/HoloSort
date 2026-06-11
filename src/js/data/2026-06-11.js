@@ -796,7 +796,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Appare Hinata",
-        img: "",
+        img: "QFRbWAM.png",
         opts: {
             generation: ["indie"],
         }
