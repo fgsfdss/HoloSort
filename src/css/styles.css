@@ -41,15 +41,13 @@ body {
 .sorter {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 120px 1fr 120px;
-  grid-gap: 5px;
-  width: 420px;
+  grid-gap: 8px;
 }
 
 .button {
   border: 1px solid black;
   text-align: center;
-  padding: 10%;
+  padding: 18%;
   grid-column: 2 / 3;
   cursor: pointer;
 }
@@ -111,35 +109,33 @@ body {
 }
 
 .sorter > .image {
-  width: 120px;
-  height: 180px;
+  width: 340px;
+  height: 340px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
 }
 
-.sorter > .text {
+/*.sorter > .text {
   width: 120px;
   height: 60px;
   display: none;
-}
+}*/
 
 .sorter > .text > p {
-  margin: 0.5em 5px 0px;
-  width: calc(100%-10px);
+/*  width: calc(100%-10px);*/
   text-align: center;
-  font-size: 0.8em;
-  line-height: 1.5em;
+  font-size: 1em;
+  line-height: 2em;
+  border: 1px solid #000000;
 }
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 1px solid #000000;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 1px solid #000000;
 }
 
 .options {
