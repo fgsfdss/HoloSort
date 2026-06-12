@@ -184,7 +184,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yuuki Sakuna",
-        img: "blob:https://imgur.com/11375aa3-8e9d-4ab3-b7cb-982df46da439",
+        img: "u4TvPUU.png",
         opts: {
             generation: ["gen2"],
 			reincarnation: true
@@ -768,7 +768,7 @@ dataSet[dataSetVersion].characterData = [
 // Indies
     {
         name: "Watagashi Unou",
-        img: "blob:https://imgur.com/1c667cfd-78cf-4ff0-9593-e94422c063e3",
+        img: "LIEGOVn.png",
         opts: {
             generation: ["indie"],
         }
