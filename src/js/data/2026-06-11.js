@@ -23,7 +23,7 @@ dataSet[dataSetVersion].options = [
             { name: "Hololive EN Advent", key: "en3" },
             { name: "Hololive EN Justice", key: "en4" },
             { name: "Hololive Staff", key: "staff" },
-            { name: "MekPark UNIT_B", key: "unitb" },
+            { name: "MekPark UNIT B", key: "unitb" },
             { name: "MekPark ACHRORA", key: "achrora" },
             { name: "Indies", key: "indie" }/*,
             { name: "Hololive China", key: "cn" },
@@ -58,35 +58,35 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Gen 0
     {
         name: "Tokino Sora",
-        img: "el6ieQx.png",
+        img: "uE7NPau.png",
         opts: {
             generation: ["gen0"],
         }
     },
     {
         name: "Roboco",
-        img: "Nw2r4BG.jpg",
+        img: "eiykmJJ.png",
         opts: {
             generation: ["gen0"],
         }
     },
     {
         name: "Sakura Miko",
-        img: "Gb3uHb2.png",
+        img: "KCvpDxG.png",
         opts: {
             generation: ["gen0"],
         }
     },
     {
         name: "Hoshimachi Suisei",
-        img: "gAQCxaF.png",
+        img: "umBNABa.png",
         opts: {
             generation: ["gen0"],
         }
     },
     {
         name: "AZKi",
-        img: "PX67EEc.png",
+        img: "90rZtWt.png",
         opts: {
             generation: ["gen0"],
         }
@@ -94,14 +94,14 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Gen 1
     {
         name: "Akai Haato",
-        img: "MUBdSy6.png",
+        img: "iQFpEms.png",
         opts: {
             generation: ["gen1"],
         }
     },
     {
         name: "Yozora Mel",
-        img: "sqSBREB.png",
+        img: "B3e8sIi.png",
         opts: {
             generation: ["gen1"],
             former: true
@@ -109,28 +109,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Natsuiro Matsuri",
-        img: "qrdgclm.png",
+        img: "1HPRJhc.png",
         opts: {
             generation: ["gen1"],
         }
     },
     {
         name: "Aki Rosenthal",
-        img: "6raI9BB.png",
+        img: "cfn1EFb.png",
         opts: {
             generation: ["gen1"],
         }
     },
     {
         name: "Shirakami Fubuki",
-        img: "Sek22uJ.png",
+        img: "HooWlY9.png",
         opts: {
             generation: ["gen1", "gamers"],
         }
     },
     {
         name: "Hanamiya Rica",
-        img: "",
+        img: "IZ65UCI.png",
         opts: {
             generation: ["gen1"],
 			reincarnation: true
@@ -138,7 +138,7 @@ dataSet[dataSetVersion].characterData = [
     },
 /*    {
         name: "Hitomi Chris",
-        img: "P2uzny8.png",
+        img: "",
         opts: {
             generation: ["gen1"],
             former: true,
@@ -147,21 +147,21 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Gen 2
     {
         name: "Oozora Subaru",
-        img: "e0pzYCp.png",
+        img: "SeV268p.png",
         opts: {
             generation: ["gen2"],
         }
     },
     {
         name: "Yuzuki Choco",
-        img: "6taIs7y.png",
+        img: "OFLWBuI.png",
         opts: {
             generation: ["gen2"],
         }
     },
     {
         name: "Murasaki Shion",
-        img: "2rUd9Hj.png",
+        img: "YdGKWTC.png",
         opts: {
             generation: ["gen2"],
             former:true
@@ -169,14 +169,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nakiri Ayame",
-        img: "8ICfmE6.png",
+        img: "Y0Lo2oO.png",
         opts: {
             generation: ["gen2"],
         }
     },
     {
         name: "Minato Aqua",
-        img: "GEAHYcy.png",
+        img: "9P2E0t9.png",
         opts: {
             generation: ["gen2"],
             former: true
@@ -184,7 +184,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yuuki Sakuna",
-        img: "",
+        img: "blob:https://imgur.com/11375aa3-8e9d-4ab3-b7cb-982df46da439",
         opts: {
             generation: ["gen2"],
 			reincarnation: true
@@ -192,7 +192,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kurageu Roa",
-        img: "",
+        img: "Nlb20BW.png",
         opts: {
             generation: ["gen2"],
 			reincarnation: true
@@ -201,21 +201,21 @@ dataSet[dataSetVersion].characterData = [
 // Hololive GAMERS
     {
         name: "Ookami Mio",
-        img: "xIiwgJB.png",
+        img: "P2CwWEv.png",
         opts: {
             generation: ["gamers"],
         }
     },
     {
         name: "Nekomata Okayu",
-        img: "sb6ISaI.png",
+        img: "YQXePUK.png",
         opts: {
             generation: ["gamers"],
         }
     },
     {
         name: "Inugami Korone",
-        img: "M2UukBq.png",
+        img: "TEpx2pv.png",
         opts: {
             generation: ["gamers"],
         }
@@ -223,14 +223,14 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Gen 3
     {
         name: "Usada Pekora",
-        img: "hvwVxHl.png",
+        img: "1DONuh0.png",
         opts: {
             generation: ["gen3"],
         }
     },
     {
         name: "Uruha Rushia",
-        img: "1iy3jFk.png",
+        img: "J7RoxwW.png",
         opts: {
             generation: ["gen3"],
             former: true
@@ -238,28 +238,28 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Shiranui Flare",
-        img: "Z4ZOaZU.png",
+        img: "YkrWj4R.png",
         opts: {
             generation: ["gen3"],
         }
     },
     {
         name: "Shirogane Noel",
-        img: "xS02Vsq.png",
+        img: "GoZxh6J.png",
         opts: {
             generation: ["gen3"],
         }
     },
     {
         name: "Houshou Marine",
-        img: "zSn4YYH.png",
+        img: "e374nAk.png",
         opts: {
             generation: ["gen3"],
         }
     },
 /*    {
         name: "Mikeneko",
-        img: "",
+        img: "ueA0nxN.png",
         opts: {
             generation: ["gen3"],
 			reincarnation: true
@@ -268,21 +268,21 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Gen 4
     {
         name: "Tsunomaki Watame",
-        img: "pOyZC1X.png",
+        img: "08CJKig.png",
         opts: {
             generation: ["gen4"],
         }
     },
     {
         name: "Tokoyami Towa",
-        img: "ig4gwEF.png",
+        img: "bYZymLO.png",
         opts: {
             generation: ["gen4"],
         }
     },
     {
         name: "Kiryu Coco",
-        img: "fal9cIp.png",
+        img: "W0wGKnr.png",
         opts: {
             generation: ["gen4"],
             former: true
@@ -290,7 +290,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Amane Kanata",
-        img: "codYKLf.png",
+        img: "tPE8zOm.png",
         opts: {
             generation: ["gen4"],
             former: true
@@ -298,7 +298,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Himemori Luna",
-        img: "wdZUtEg.png",
+        img: "9kLZhNf.png",
         opts: {
             generation: ["gen4"],
         }
@@ -314,35 +314,35 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Gen 5
     {
         name: "Yukihana Lamy",
-        img: "arLeQSp.png",
+        img: "IdjeSm9.png",
         opts: {
             generation: ["gen5"],
         }
     },
     {
         name: "Momosuzu Nene",
-        img: "lyNlJW3.png",
+        img: "asJZC5L.png",
         opts: {
             generation: ["gen5"],
         }
     },
     {
         name: "Shishiro Botan",
-        img: "f698oAj.png",
+        img: "Mzwlx9J.png",
         opts: {
             generation: ["gen5"],
         }
     },
     {
         name: "Omaru Polka",
-        img: "HGxfwSH.png",
+        img: "aq8ennV.png",
         opts: {
             generation: ["gen5"],
         }
     },
 /*    {
         name: "Mano Aloe",
-        img: "vcZEMzV.png",
+        img: "",
         opts: {
             generation: ["gen5"],
             former: true
@@ -359,28 +359,28 @@ dataSet[dataSetVersion].characterData = [
 // Hololive HoloX
     {
         name: "La+ Darkness",
-        img: "4mXl55X.png",
+        img: "9P5vgJw.png",
         opts: {
             generation: ["gen6"],
         }
     },
     {
         name: "Takane Lui",
-        img: "sZj2hf5.png",
+        img: "8FukPme.png",
         opts: {
             generation: ["gen6"],
         }
     },
     {
         name: "Hakui Koyori",
-        img: "shdcHcD.png",
+        img: "KKK7g9x.png",
         opts: {
             generation: ["gen6"],
         }
     },
     {
         name: "Sakamata Chloe",
-        img: "nlhnsjs.png",
+        img: "MkwOWvT.png",
         opts: {
             generation: ["gen6"],
             former: true
@@ -388,14 +388,14 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kazama Iroha",
-        img: "eNcW0cS.png",
+        img: "q8JGEns.png",
         opts: {
             generation: ["gen6"],
         }
     },
     {
         name: "Amagai Ruka",
-        img: "",
+        img: "U5KJRXu.png",
         opts: {
             generation: ["gen6"],
 			reincarnation: true
@@ -404,7 +404,7 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Dev_IS ReGloss
     {
         name: "Hiodoshi Ao",
-        img: "KWAQaV1.png",
+        img: "YtAffds.png",
         opts: {
             generation: ["regloss"],
             former: true
@@ -412,72 +412,72 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Otonose Kanade",
-        img: "wVacDKp.png",
+        img: "QBfeV2A.png",
         opts: {
             generation: ["regloss"],
         }
     },
     {
         name: "Ichijou Ririka",
-        img: "EadnOh9.png",
+        img: "n6AAXEo.png",
         opts: {
             generation: ["regloss"],
         }
     },
     {
         name: "Juufuutei Raden",
-        img: "B57CxJ1.png",
+        img: "BTdMwrW.png",
         opts: {
             generation: ["regloss"],
         }
     },
     {
         name: "Todoroki Hajime",
-        img: "wO0BWC9.png",
+        img: "4UgbKNC.png",
         opts: {
             generation: ["regloss"],
         }
     },
     {
-        name: "Mizuchima Komori",
-        img: "",
+/*        name: "Mizuchima Komori",
+        img: "10fHCYj.png",
         opts: {
             generation: ["regloss"],
 			reincarnation: true
         }
-    },
+    },*/
 // Hololive Dev_IS FLOW GLOW
     {
         name: "Isaki Riona",
-        img: "DchAQtL.png",
+        img: "LxMQKgP.png",
         opts: {
             generation: ["flowglow"],
         }
     },
     {
         name: "Koganei Niko",
-        img: "AhFZwYl.png",
+        img: "9TMCzRg.png",
         opts: {
             generation: ["flowglow"],
         }
     },
     {
         name: "Mizumiya Su",
-        img: "OBPKp7p.png",
+        img: "GQOuSpu.png",
         opts: {
             generation: ["flowglow"],
         }
     },
     {
         name: "Rindo Chihaya",
-        img: "OPJodPs.png",
+        img: "OmYeQSZ.png",
         opts: {
             generation: ["flowglow"],
         }
     },
     {
         name: "Kikirara Vivi",
-        img: "TyyXagO.png",
+        img: "l1vcBkd.png",
         opts: {
             generation: ["flowglow"],
         }
@@ -485,7 +485,7 @@ dataSet[dataSetVersion].characterData = [
 // Hololive EN Myth
     {
         name: "Mori Calliope",
-        img: "j8erQSM.png",
+        img: "4zkQgji.png",
         opts: {
             generation: ["en"],
             notjphololive: true
@@ -493,7 +493,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Takanashi Kiara",
-        img: "8jD2gBo.png",
+        img: "NcDAgeV.png",
         opts: {
             generation: ["en"],
             notjphololive: true
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ninomae Ina'nis",
-        img: "p9R7Iod.png",
+        img: "VlwHFdU.png",
         opts: {
             generation: ["en"],
             notjphololive: true
@@ -509,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Gawr Gura",
-        img: "WtmZaXM.png",
+        img: "TRtemdT.png",
         opts: {
             generation: ["en"],
             notjphololive: true,
@@ -518,24 +518,24 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Watson Amelia",
-        img: "1IBgtt8.png",
+        img: "Zqt8uJy.png",
         opts: {
             generation: ["en"],
             notjphololive: true,
             former: true
         }
     },
-    {
+/*    {
         name: "Dooby",
         img: "",
         opts: {
             generation: ["en"],
 			reincarnation: true
         }
-    },
+    },*/
     {
         name: "Sameko Saba",
-        img: "",
+        img: "P802le9.png",
         opts: {
             generation: ["en"],
 			reincarnation: true
@@ -544,7 +544,7 @@ dataSet[dataSetVersion].characterData = [
 // Hololive EN Promise
     {
         name: "IRyS",
-        img: "txqogoD.png",
+        img: "ghKvVeB.png",
         opts: {
             generation: ["en2"],
             notjphololive: true
@@ -552,7 +552,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Tsukumo Sana",
-        img: "g7Zrvv3.png",
+        img: "fTJL7H0.png",
         opts: {
             generation: ["en2"],
             notjphololive: true,
@@ -561,7 +561,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ceres Fauna",
-        img: "HMLilU0.png",
+        img: "Fly5TTD.png",
         opts: {
             generation: ["en2"],
             notjphololive: true,
@@ -570,7 +570,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ouro Kronii",
-        img: "aj5fCrx.png",
+        img: "9RdX60K.png",
         opts: {
             generation: ["en2"],
             notjphololive: true
@@ -578,7 +578,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nanashi Mumei",
-        img: "EokVK8K.png",
+        img: "gocIYn9.png",
         opts: {
             generation: ["en2"],
             notjphololive: true,
@@ -587,7 +587,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hakos Baelz",
-        img: "87BaHiK.png",
+        img: "5TlL1TB.png",
         opts: {
             generation: ["en2"],
             notjphololive: true
@@ -595,7 +595,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nimi Nightmare",
-        img: "",
+        img: "T2Lx1DZ.png",
         opts: {
             generation: ["en2"],
 			reincarnation: true
@@ -604,7 +604,7 @@ dataSet[dataSetVersion].characterData = [
 // Hololive EN Advent
     {
         name: "Shiori Novella",
-        img: "NRuDhPV.png",
+        img: "opKABmu.png",
         opts: {
             generation: ["en3"],
             notjphololive: true
@@ -612,7 +612,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Koseki Bijou",
-        img: "3IgAvZT.png",
+        img: "aWalE7u.png",
         opts: {
             generation: ["en3"],
             notjphololive: true
@@ -620,7 +620,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Nerissa Ravencroft",
-        img: "BQ74EHx.png",
+        img: "2UhmCCJ.png",
         opts: {
             generation: ["en3"],
             notjphololive: true
@@ -628,7 +628,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fuwawa Abyssgard",
-        img: "2kdKmsb.png",
+        img: "8R6YIz7.png",
         opts: {
             generation: ["en3"],
             notjphololive: true
@@ -636,7 +636,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Mococo Abyssgard",
-        img: "3HCwn04.png",
+        img: "arMEIn4.png",
         opts: {
             generation: ["en3"],
             notjphololive: true
@@ -645,7 +645,7 @@ dataSet[dataSetVersion].characterData = [
 // Hololive EN Justice
     {
         name: "Elizabeth Rose Bloodflame",
-        img: "UVYE0RW.png",
+        img: "yXWnR6O.png",
         opts: {
             generation: ["en4"],
             notjphololive: true
@@ -653,7 +653,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Gigi Murin",
-        img: "Ys02Ug2.png",
+        img: "xYJfYmI.png",
         opts: {
             generation: ["en4"],
             notjphololive: true
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Cecilia Immergreen",
-        img: "vi86MRS.png",
+        img: "1FUD0ch.png",
         opts: {
             generation: ["en4"],
             notjphololive: true
@@ -669,7 +669,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Raora Panthera",
-        img: "3jKUZcG.png",
+        img: "7FKHLst.png",
         opts: {
             generation: ["en4"],
             notjphololive: true
@@ -678,7 +678,7 @@ dataSet[dataSetVersion].characterData = [
 // Hololive Staff
     {
         name: "A-chan",
-        img: "Bb3Cyqk.png",
+        img: "QFRbWAM.png",
         opts: {
             generation: ["staff"],
             former: true
@@ -686,7 +686,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Harusaki Nodoka",
-        img: "aYMMeIk.png",
+        img: "xmOPWVt.png",
         opts: {
             generation: ["staff"],
             former: true
@@ -694,51 +694,51 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hanazono Sayaka",
-        img: "ab2fv7L.png",
+        img: "h9F6UyF.png",
         opts: {
             generation: ["staff"],
         }
     },
     {
         name: "Izuki Michiru",
-        img: "NBIyfh5.png",
+        img: "YqfHGNl.png",
         opts: {
             generation: ["staff"],
         }
     },
     {
         name: "Kazeshiro Yuki",
-        img: "tKKx2kZ.png",
+        img: "anMPCkY.png",
         opts: {
             generation: ["staff"],
         }
     },
     {
         name: "Yubari Rei",
-        img: "",
+        img: "Kxv3H8S.png",
         opts: {
             generation: ["staff"],
 			reincarnation: true
         }
     },
-// MekPark UNIT_B
+// MekPark UNIT B
     {
         name: "Yoinagi Neon",
-        img: "",
+        img: "Tn77Kki.png",
         opts: {
             generation: ["unitb"],
         }
     },
     {
         name: "Reimei Mira",
-        img: "",
+        img: "ZMx30hL.png",
         opts: {
             generation: ["unitb"],
         }
     },
     {
         name: "Kiyosumi Lyra",
-        img: "",
+        img: "5GxqzMD.png",
         opts: {
             generation: ["unitb"],
         }
@@ -746,21 +746,21 @@ dataSet[dataSetVersion].characterData = [
 // MekPark ACHRORA
     {
         name: "Sayana",
-        img: "QFRbWAM.png",
+        img: "hVrtszs.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
         name: "Rirara",
-        img: "QFRbWAM.png",
+        img: "HtKaArV.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
         name: "Hinami",
-        img: "QFRbWAM.png",
+        img: "EjMgSYc.png",
         opts: {
             generation: ["achrora"],
         }
@@ -768,35 +768,35 @@ dataSet[dataSetVersion].characterData = [
 // Indies
     {
         name: "Watagashi Unou",
-        img: "QFRbWAM.png",
+        img: "blob:https://imgur.com/1c667cfd-78cf-4ff0-9593-e94422c063e3",
         opts: {
             generation: ["indie"],
         }
     },
     {
         name: "Shigure Ui",
-        img: "",
+        img: "u1b58WE.png",
         opts: {
             generation: ["indie"],
         }
     },
     {
         name: "Amatsuka Uto",
-        img: "",
+        img: "vqRVtdn.png",
         opts: {
             generation: ["indie"],
         }
     },
     {
         name: "Yukinoshita Peo",
-        img: "",
+        img: "tKBTo6g.png",
         opts: {
             generation: ["indie"],
         }
     },
     {
         name: "Appare Hinata",
-        img: "",
+        img: "y7OTNcb.png",
         opts: {
             generation: ["indie"],
         }
@@ -806,7 +806,7 @@ dataSet[dataSetVersion].characterData = [
 /*	,
     {
         name: "Yogiri",
-        img: "8uyCIbp.png",
+        img: "",
         opts: {
             generation: ["cn"],
             notjphololive: true,
@@ -815,7 +815,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Civia",
-        img: "TQwYoKA.png",
+        img: "",
         opts: {
             generation: ["cn"],
             notjphololive: true,
@@ -824,7 +824,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Spade Echo",
-        img: "HbebtrC.png",
+        img: "",
         opts: {
             generation: ["cn"],
             notjphololive: true,
@@ -833,7 +833,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Doris",
-        img: "ZXjHi8f.png",
+        img: "",
         opts: {
             generation: ["cn"],
             notjphololive: true,
@@ -842,7 +842,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Artia",
-        img: "PILecug.png",
+        img: "",
         opts: {
             generation: ["cn"],
             notjphololive: true,
@@ -851,7 +851,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rosalyn",
-        img: "dpMTyGF.png",
+        img: "",
         opts: {
             generation: ["cn"],
             notjphololive: true,
@@ -860,7 +860,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Ayunda Risu",
-        img: "BhRbyEU.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -868,7 +868,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Moona Hoshinova",
-        img: "u9NwKye.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -876,7 +876,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Airani Iofifteen",
-        img: "hGAkQXZ.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -884,7 +884,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kureiji Ollie",
-        img: "vHDoixD.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -892,7 +892,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Anya Melfissa",
-        img: "6ZrfPUo.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -900,7 +900,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Pavolia Reine",
-        img: "DnVmYDq.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -908,7 +908,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Vesia Zeta",
-        img: "maPX2c5.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -916,7 +916,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kaela Kovalskia",
-        img: "pS0KjQu.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -924,7 +924,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kobo Kanaeru",
-        img: "im0GFjU.png",
+        img: "",
         opts: {
             generation: ["id"],
             notjphololive: true
@@ -932,7 +932,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         name: "Hanasaki Miyabi",
-        img: "JmjAl51.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -940,7 +940,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kagami Kira",
-        img: "6JI1hQz.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -949,7 +949,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kanade Izuru",
-        img: "as6Tj8A.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -957,7 +957,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Arurandeisu",
-        img: "tCrsBrq.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -965,7 +965,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Rikka",
-        img: "31J4UYx.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -973,7 +973,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Astel Leda",
-        img: "LBBvcPs.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -981,7 +981,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kishido Temma",
-        img: "Dw68kL3.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -989,7 +989,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yukoku Roberu",
-        img: "Zwtz59X.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -997,7 +997,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Kageyama Shien",
-        img: "LHG6bKg.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -1005,7 +1005,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aragami Oga",
-        img: "CgiQ2yR.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -1013,7 +1013,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yakushiji Suzaku",
-        img: "QSlHaie.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -1022,7 +1022,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Tsukishita Kaoru",
-        img: "MiCGUjf.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -1031,7 +1031,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Regis Altare",
-        img: "xflzqjP.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1039,7 +1039,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Magni Dezmond",
-        img: "wba3Wt4.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1047,7 +1047,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Axel Syrios",
-        img: "ggyrdAK.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1055,7 +1055,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Noir Vesper",
-        img: "4FIHS3P.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1063,7 +1063,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Gavis Bettel",
-        img: "Ku4gLGn.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1071,7 +1071,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Machina X Flayon",
-        img: "FvPXLdD.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1079,7 +1079,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Banzoin Hakka",
-        img: "8sx3JFt.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1087,7 +1087,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Josuiji Shinji",
-        img: "yFKvefo.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1095,7 +1095,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Yatogami Fuma",
-        img: "RzrVASI.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1103,7 +1103,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Utsugi Uyu",
-        img: "ulXcEyq.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
@@ -1111,7 +1111,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Hizaki Gamma",
-        img: "xnY9AYc.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true,
@@ -1120,7 +1120,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Minase Rio",
-        img: "HE5T2qt.png",
+        img: "",
         opts: {
             generation: ["stars"],
             notgirl: true
