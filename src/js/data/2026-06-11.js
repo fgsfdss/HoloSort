@@ -438,8 +438,8 @@ dataSet[dataSetVersion].characterData = [
             generation: ["regloss"],
         }
     },
-    {
-/*        name: "Mizuchima Komori",
+/*    {
+        name: "Mizuchima Komori",
         img: "10fHCYj.png",
         opts: {
             generation: ["regloss"],
