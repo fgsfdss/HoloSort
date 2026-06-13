@@ -48,9 +48,10 @@ dataSet[dataSetVersion].options = [
         tooltip: "Check this to remove all former members."
     },
     {
-        name: "Include Reincarnations",
+        name: "Remove Reincarnations",
         key: "reincarnation",
-        tooltip: "Check this to include former members' new channels."
+        tooltip: "Check this to remove former members' new channels.",
+		checked: false
     },
 ];
 
