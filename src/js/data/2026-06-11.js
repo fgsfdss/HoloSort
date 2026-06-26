@@ -746,21 +746,21 @@ dataSet[dataSetVersion].characterData = [
     },
 // MekPark ACHRORA
     {
-        name: "Sayana",
+        name: "Kiyosumi Sayana",
         img: "hVrtszs.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
-        name: "Rirara",
+        name: "Rumigaki Rirara",
         img: "HtKaArV.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
-        name: "Hinami",
+        name: "Yuikawa Hinami",
         img: "EjMgSYc.png",
         opts: {
             generation: ["achrora"],
