@@ -1,4 +1,5 @@
 dataSetVersion = "2026-06-11"; // Change this when creating a new data set version. YYYY-MM-DD format.
+// images should be 340x340
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -747,21 +748,21 @@ dataSet[dataSetVersion].characterData = [
 // MekPark ACHRORA
     {
         name: "Kiyosumi Sayana",
-        img: "hVrtszs.png",
+        img: "8vfj6sC.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
         name: "Rumigaki Rirara",
-        img: "HtKaArV.png",
+        img: "PhI7FrZ.png",
         opts: {
             generation: ["achrora"],
         }
     },
     {
         name: "Yuikawa Hinami",
-        img: "EjMgSYc.png",
+        img: "Cg0lPJ1.png",
         opts: {
             generation: ["achrora"],
         }
