@@ -1,4 +1,4 @@
-dataSetVersion = "2026-06-11"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2026-11-01"; // Change this when creating a new data set version. YYYY-MM-DD format.
 // images should be 340x340
 dataSet[dataSetVersion] = {};
 
@@ -484,6 +484,35 @@ dataSet[dataSetVersion].characterData = [
             generation: ["flowglow"],
         }
     },
+// Hololive Dev_IS FLOW GLOW
+    {
+        name: "Achichi Mela",
+        img: "UnAnMus.png",
+        opts: {
+            generation: ["flowglow"],
+        }
+    },
+    {
+        name: "Sorashina Sopia",
+        img: "0i6vsV1.png",
+        opts: {
+            generation: ["flowglow"],
+        }
+    },
+    {
+        name: "Suzuna Tsuzuri",
+        img: "kcXiCz5.png",
+        opts: {
+            generation: ["flowglow"],
+        }
+    },
+    {
+        name: "Hyakuto Kyoko",
+        img: "yeTTdbd.png",
+        opts: {
+            generation: ["flowglow"],
+        }
+    },
 // Hololive EN Myth
     {
         name: "Mori Calliope",
@@ -770,7 +799,7 @@ dataSet[dataSetVersion].characterData = [
 // Indies
     {
         name: "Watagashi Unou",
-        img: "LIEGOVn.png",
+        img: "q0OFF9p.png",
         opts: {
             generation: ["indie"],
         }
