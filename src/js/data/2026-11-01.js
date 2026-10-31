@@ -19,6 +19,7 @@ dataSet[dataSetVersion].options = [
             { name: "Hololive HoloX", key: "gen6" },
             { name: "Hololive DEV_IS ReGLOSS", key: "regloss" },
             { name: "Hololive DEV_IS FLOW GLOW", key: "flowglow" },
+            { name: "Hololive ASOBI★MAWARI-TAI!", key: "asobi" },
             { name: "Hololive EN Myth", key: "en" },
             { name: "Hololive EN Promise", key: "en2" },
             { name: "Hololive EN Advent", key: "en3" },
@@ -484,33 +485,33 @@ dataSet[dataSetVersion].characterData = [
             generation: ["flowglow"],
         }
     },
-// Hololive Dev_IS FLOW GLOW
+// Hololive ASOBI★MAWARI-TAI!
     {
         name: "Achichi Mela",
         img: "UnAnMus.png",
         opts: {
-            generation: ["flowglow"],
+            generation: ["asobi"],
         }
     },
     {
         name: "Sorashina Sopia",
         img: "0i6vsV1.png",
         opts: {
-            generation: ["flowglow"],
+            generation: ["asobi"],
         }
     },
     {
         name: "Suzuna Tsuzuri",
         img: "kcXiCz5.png",
         opts: {
-            generation: ["flowglow"],
+            generation: ["asobi"],
         }
     },
     {
         name: "Hyakuto Kyoko",
         img: "yeTTdbd.png",
         opts: {
-            generation: ["flowglow"],
+            generation: ["asobi"],
         }
     },
 // Hololive EN Myth
